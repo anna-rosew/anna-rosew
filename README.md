@@ -1,4 +1,4 @@
-##  ☆ Hi there 👋 welcome to my Github! I like to write in Java Script and play with design using 3D ☆☁
+##  Anna-Rose Wain☁
 
 <!--
 **anna-rosew/anna-rosew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
