@@ -1,4 +1,4 @@
-##  👋🏻 Hi, I'm Anna-Rose Wain - Front-End Developer and Designer
+##  👋🏻 Hi, I'm Anna-Rose Wain - Web Developer
 
  Hi! My name is Anna-Rose and I love clean code and 
 
