@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React.js and Python👯 I’m looking for a job as a Junior Front-end or Full-Stack Developer
 - 📫 How to reach me: [LinkedIn]([[https://www.google.com](https://github.com/anna-rosew/rose-long-site](https://www.linkedin.com/in/anna-rose-wain-12b183196/)))
  - 😄 Pronouns: She/Her
- - ⚡ Fun fact: When I'm not at my desk, I love to trail running
+ - ⚡ Fun fact: When I'm not at my desk, I love trail running
 
 
 
