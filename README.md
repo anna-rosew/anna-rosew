@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Tailwind CSS and Database Management I’m looking for a job as a Junior Front-end or Full-Stack Developer
 - 📫 How to reach me: [LinkedIn]([[https://www.google.com](https://github.com/anna-rosew/rose-long-site](https://www.linkedin.com/in/anna-rose-wain-12b183196/)))
  - 😄 Pronouns: She/Her
- - ⚡ Fun fact: When I'm not at my desk, I love trail running
+
 
 
 
